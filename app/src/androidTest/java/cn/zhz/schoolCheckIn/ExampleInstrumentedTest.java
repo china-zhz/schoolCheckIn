@@ -1,4 +1,4 @@
-package cn.zhz.mydemo;
+package cn.zhz.schoolCheckIn;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

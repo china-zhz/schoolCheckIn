@@ -1,8 +1,6 @@
-package cn.zhz.mydemo;
+package cn.zhz.schoolCheckIn;
 
 import android.app.Application;
-import android.content.ContentProvider;
-import android.os.Build;
 
 /**
  * @author ZHZ

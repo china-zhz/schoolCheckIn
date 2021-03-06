@@ -1,7 +1,7 @@
-package cn.zhz.mydemo.activity;
+package cn.zhz.schoolCheckIn.activity;
 
 import android.os.Bundle;
-import cn.zhz.mydemo.R;
+import cn.zhz.schoolCheckIn.R;
 
 public class MainActivity extends BaseActivity {
 // statusBar 界面最上方的控制栏

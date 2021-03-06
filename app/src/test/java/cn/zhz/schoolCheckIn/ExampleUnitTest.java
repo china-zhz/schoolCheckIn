@@ -1,4 +1,4 @@
-package cn.zhz.mydemo;
+package cn.zhz.schoolCheckIn;
 
 import org.junit.Test;
 

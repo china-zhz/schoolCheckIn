@@ -1,4 +1,4 @@
-package cn.zhz.mydemo.activity;
+package cn.zhz.schoolCheckIn.activity;
 
 import android.app.Activity;
 
